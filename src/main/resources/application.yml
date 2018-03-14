@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: sit
+#    active: testing
+#    active: stage
+#    active: prod
+
+
+
