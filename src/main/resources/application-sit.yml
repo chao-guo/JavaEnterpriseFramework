@@ -13,5 +13,13 @@ spring:
       password:
 
 
+swagger2:
+  defaultGroupName: "defaultGroupName"
+  defaultBasePackage: "com.company.project.controller"
+  defaultTitle: "defaultTitle"
+  defaultDescription: "defaultDescription"
+  defaultTermsOfServiceUrl: "{host}/doc.html"
+  defaultVersion: "defaultVersion"
+
 
 
